@@ -1,0 +1,42 @@
+_repo: Schelmuffskys-wahrhaftige-kuri-se-und-sehr-gef-hrliche-Reisebeschreibung-zu-Wasser-und-zu-Lan__22355
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Berwald, Ludwig
+    gutenberg_agent_id: '25284'
+    url: http://www.gutenberg.org/2009/agents/25284
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reuter, Christian
+    birthdate: 1665
+    deathdate: 1712
+    gutenberg_agent_id: '25285'
+    url: http://www.gutenberg.org/2009/agents/25285
+    wikipedia: http://de.wikipedia.org/wiki/Christian_Reuter
+  editor:
+    agent_name: Fritz, Gottlieb
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '25283'
+    url: http://www.gutenberg.org/2009/agents/25283
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22355'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Travel -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Germany -- Social life and customs -- 17th century -- Fiction'
+title: Schelmuffskys wahrhaftige, kuriöse und sehr gefährliche Reisebeschreibung zu
+  Wasser und zu Lande
+url: http://www.gutenberg.org/ebooks/22355
